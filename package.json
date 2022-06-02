@@ -1,0 +1,25 @@
+{
+  "name": "training",
+  "version": "1.0.0",
+  "description": "practice school skills repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gisaacsotelo/training.git"
+  },
+  "author": "Isaac Sotelo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gisaacsotelo/training/issues"
+  },
+  "homepage": "https://github.com/gisaacsotelo/training#readme",
+  "dependencies": {
+    "jest": "^28.1.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.16.0"
+  }
+}
