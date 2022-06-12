@@ -6,7 +6,8 @@
   "scripts": {
     "start": "node index",
     "test": "jest --watchAll",
-    "dev": "nodemon index --ignore data.json"
+    "dev": "nodemon index --ignore data.json",
+    "ascii": "node main_files/index-ascii.js"
   },
   "repository": {
     "type": "git",

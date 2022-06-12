@@ -1,3 +1,13 @@
+To run this file on terminal:
+
+After you install your dependencies:
+
+```shell
+$ npm run ascii
+```
+```js
+//script: node main_files/index-ascii.js
+```
 # ASCII Art Reader
 
 Build a state of the (ASCII) art terminal client. Don't forget to maximise your terminal window on one screen. You'll need the space!
